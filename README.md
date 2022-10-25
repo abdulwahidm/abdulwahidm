@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @abdulwahidm
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Abdul Wahid Muhaemin
+- 👀 I’m interested in Web and Mobile Development
+- 🌱 I’m currently learning Javascript
 
 <!---
 abdulwahidm/abdulwahidm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
