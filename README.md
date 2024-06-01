@@ -135,11 +135,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/abdulwahidm/abdulwahidm/output/snake.svg" alt="Snake animation" />
-
-###
-
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/abdulwahidm/count.svg?"  />
 </div>
