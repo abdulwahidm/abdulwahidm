@@ -16,7 +16,7 @@
 
 📚 I'm currently learning advanced backend development, cloud computing, and microservices architecture. I am also diving into DevOps practices to better understand the end-to-end software development lifecycle.
 
-🎯 Goals: To become a good software engineer in the latest technologies and to contribute to open-source projects that make a difference. I aim to develop scalable and efficient systems that can handle real-world challenges. Additionally, I want to mentor and guide new developers entering the field.
+🎯 Goals: To become a good software engineer in the latest technologies and to contribute to open-source projects that make a difference. I aim to develop scalable and efficient systems that can handle real-world challenges. 
 
 🎲 Fun fact: I once fixed a bug by accident and spent the rest of the day figuring out what I did right. Outside of coding, I love playing chess and believe it helps improve my strategic thinking skills.
 
