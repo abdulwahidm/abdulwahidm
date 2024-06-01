@@ -135,10 +135,10 @@
 
 ###
 
-![snake gif](https://github.com/abdulwahidm/abdulwahidm/blob/output/github-contribution-grid-snake.gif)
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/abdulwahidm/count.svg?"  />
+    <h4>👥 Visitor Count</h4>
+    <img src="https://profile-counter.glitch.me/abdulwahidm/count.svg?" alt="visitor counter" />
+    <p>Thanks you for visiting my profile</p>
 </div>
 
 ###
