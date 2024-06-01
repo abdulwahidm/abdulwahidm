@@ -135,6 +135,8 @@
 
 ###
 
+![snake gif](https://github.com/abdulwahidm/abdulwahidm/blob/output/github-contribution-grid-snake.gif)
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/abdulwahidm/count.svg?"  />
 </div>
