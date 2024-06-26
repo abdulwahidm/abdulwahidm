@@ -143,7 +143,7 @@
 <div align="center">
     <h4>👥 Visitor Count</h4>
     <img src="https://profile-counter.glitch.me/abdulwahidm/count.svg?" alt="visitor counter" />
-    <p>Thanks you for visiting my profile</p>
+    <p>Thank you for visiting my profile</p>
 </div>
 
 ###
