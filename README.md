@@ -14,13 +14,13 @@
 
 ✨ Creating bugs since 2020
 
-📚 Advanced backend development, cloud computing, and microservices architecture. I am also diving into DevOps practices to better understand the end-to-end software development lifecycle.
+📚 Learning: Advanced backend development, cloud computing, and microservices architecture, diving into DevOps practices to better understand the end-to-end software development lifecycle.
 
-🎯 Goals: To become a good software engineer in the latest technologies and to contribute to open-source projects that make a difference. I aim to develop scalable and efficient systems that can handle real-world challenges. 
+🎯 Goals: Contribute to open-source projects, develop scalable and efficient systems that can handle real-world challenges. 
 
 👨‍💻 Projects: I have worked on several exciting projects, check out my repositories to see more of my work.
 
-🌐 Community: Actively participating in developer communities, attending meetups, and contributing to forums. I believe in the power of collaboration and knowledge sharing.
+🌐 Community: participating in developer communities, attending meetups, and contributing to forums. I believe in the power of collaboration and knowledge sharing.
 
 🌱 Personal Growth: Committed to continuous learning and self-improvement. I regularly read tech blogs, listen to podcasts, and enroll in online courses to stay updated with industry trends.
 
